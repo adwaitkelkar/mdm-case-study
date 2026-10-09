@@ -1,0 +1,9 @@
+vendor
+.env
+.env.*
+!.env.example
+.git
+.gitignore
+.phpunit.result.cache
+.phpunit.cache
+node_modules
